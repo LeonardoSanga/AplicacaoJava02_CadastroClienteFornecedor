@@ -1,6 +1,6 @@
 # Aplicação Java 02 - Cadastros de Fornecedor e de Produto
 Segundo do total de quatro projetos, em java, com integração com banco de dados PostgreSQL, desenvolvidos durantes as aulas de Linguagem de Programação I.
-
+ 
 ## Menu da Tela Inicial
 ![image](https://github.com/LeonardoSanga/AplicacaoJava02_CadastroClienteFornecedor/assets/100099053/030a49ee-1413-4f51-bde2-b604b6cd565a)
 
